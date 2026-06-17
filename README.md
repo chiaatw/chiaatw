@@ -13,7 +13,7 @@ Vision-LLM extraction + deterministic CadQuery generation + two-layer geometric 
 2nd-degree LinkedIn network overlap detection with BFS graph layer  
 `Python` `Supabase` `Browser Extension` `Graph Algorithms`
 
-**[Agnes](https://github.com/chiaaa/...)** — AI supply chain compliance · TUM.ai Makeathon  
+**[Agnes]((https://github.com/chiaatw/makeathon))** — AI supply chain compliance · TUM.ai Makeathon  
 LLM-powered certification verification against EU/US regulatory frameworks  
 `Python` `LLM` `Web Scraping`
 
